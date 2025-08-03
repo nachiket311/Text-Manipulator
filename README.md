@@ -4,7 +4,7 @@ This is a simple React project built using **Create React App (CRA)** and **cust
 
 ## Live Demo
 
-**Deploying soon...**
+[Click here to view it live](https://nacs-dashbord.netlify.app/) 
 
 ## Tech Stack
 
@@ -15,7 +15,7 @@ This is a simple React project built using **Create React App (CRA)** and **cust
 ## Installation (Run Locally)
 
 ```bash
-git clone **Add Link here soon...**
+git clone https://github.com/nachiket311/Text-Manipulator.git
 cd Text-Manipulator
 npm install
 npm start
