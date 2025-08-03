@@ -4,7 +4,7 @@ This is a simple React project built using **Create React App (CRA)** and **cust
 
 ## Live Demo
 
-[Click here to view it live](https://nacs-dashbord.netlify.app/) 
+[Click here to view it live](https://nacs-text-manipulator.netlify.app/) 
 
 ## Tech Stack
 
